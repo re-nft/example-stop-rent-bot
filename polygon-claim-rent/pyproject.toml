@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "polygon-claim-rent"
+version = "0.1.0"
+description = "Stops overdue rentals on our polygon evm collateral free v1 contract."
+authors = ["nazariyv <naz@renft.io>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+discord = "^2.2.2"
+boto3 = "^1.26.115"
+python-dotenv = "^1.0.0"
+web3 = "^6.2.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
