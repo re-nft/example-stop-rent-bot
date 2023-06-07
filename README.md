@@ -1,5 +1,3 @@
-Purpose of this repository is to maintain services supplementing our contracts.
+# Stop Rent Example Bots
 
-For example, our Castle Crush bot has a stop rent function that we can execute
-for better UX. There is a similar function on our polygon collateral free
-contract.
+This repository contains example bots that can be used to stop rentals on-chain.
